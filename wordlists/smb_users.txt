@@ -1,0 +1,8 @@
+msfadmin
+user
+root
+service
+ftp
+postgres
+tomcat55
+klog

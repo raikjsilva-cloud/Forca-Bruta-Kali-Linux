@@ -1,0 +1,111 @@
+Medusa v2.3 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
+
+GENERAL: Parallel Hosts: 50 Parallel Logins: 2
+GENERAL: Total Hosts: 1 
+GENERAL: Total Users: 8
+GENERAL: Total Passwords: 8
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: msfadmin (1 of 8, 0 complete) Password: user (1 of 8 complete)
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: msfadmin (1 of 8, 0 complete) Password: msfadmin (2 of 8 complete)
+2026-11-25 17:16:45 ACCOUNT FOUND: [smbnt] Host: 192.168.56.102 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: msfadmin (1 of 8, 1 complete) Password: admin (3 of 8 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: user (2 of 8, 1 complete) Password: msfadmin (1 of 8 complete)
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: user (2 of 8, 1 complete) Password: user (2 of 8 complete)
+2026-11-25 17:16:45 ACCOUNT FOUND: [smbnt] Host: 192.168.56.102 User: user Password: user [SUCCESS (ADMIN$ - Access Allowed)]
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: user (2 of 8, 2 complete) Password: admin (3 of 8 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: root (3 of 8, 2 complete) Password: msfadmin (1 of 8 complete)
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: root (3 of 8, 2 complete) Password: user (2 of 8 complete)
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: root (3 of 8, 2 complete) Password: admin (3 of 8 complete)
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: root (3 of 8, 2 complete) Password: 123456 (4 of 8 complete)
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: root (3 of 8, 2 complete) Password: password (5 of 8 complete)
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: root (3 of 8, 2 complete) Password: qwerty (6 of 8 complete)
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: root (3 of 8, 2 complete) Password: letmein (7 of 8 complete)
+2026-11-25 17:16:45 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: root (3 of 8, 3 complete) Password: toor (8 of 8 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: service (4 of 8, 3 complete) Password: msfadmin (1 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: service (4 of 8, 3 complete) Password: admin (2 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: service (4 of 8, 3 complete) Password: user (3 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: service (4 of 8, 3 complete) Password: 123456 (4 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: service (4 of 8, 3 complete) Password: password (5 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: service (4 of 8, 3 complete) Password: qwerty (6 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: service (4 of 8, 3 complete) Password: letmein (7 of 8 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: service (4 of 8, 4 complete) Password: toor (8 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: ftp (5 of 8, 4 complete) Password: msfadmin (1 of 8 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: ftp (5 of 8, 4 complete) Password: admin (2 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: ftp (5 of 8, 4 complete) Password: user (3 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: ftp (5 of 8, 4 complete) Password: 123456 (4 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: ftp (5 of 8, 4 complete) Password: password (5 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: ftp (5 of 8, 4 complete) Password: qwerty (6 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: ftp (5 of 8, 4 complete) Password: letmein (7 of 8 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: ftp (5 of 8, 5 complete) Password: toor (8 of 8 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: postgres (6 of 8, 5 complete) Password: msfadmin (1 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: postgres (6 of 8, 5 complete) Password: admin (2 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: postgres (6 of 8, 5 complete) Password: user (3 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: postgres (6 of 8, 5 complete) Password: password (4 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: postgres (6 of 8, 5 complete) Password: 123456 (5 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: postgres (6 of 8, 5 complete) Password: qwerty (6 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: postgres (6 of 8, 5 complete) Password: letmein (7 of 8 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: postgres (6 of 8, 6 complete) Password: toor (8 of 8 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: tomcat55 (7 of 8, 6 complete) Password: msfadmin (1 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: tomcat55 (7 of 8, 6 complete) Password: user (2 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: tomcat55 (7 of 8, 6 complete) Password: 123456 (3 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: tomcat55 (7 of 8, 6 complete) Password: admin (4 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: tomcat55 (7 of 8, 6 complete) Password: password (5 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: tomcat55 (7 of 8, 6 complete) Password: qwerty (6 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: tomcat55 (7 of 8, 6 complete) Password: letmein (7 of 8 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: klog (8 of 8, 7 complete) Password: msfadmin (1 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: tomcat55 (7 of 8, 7 complete) Password: toor (8 of 8 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: klog (8 of 8, 7 complete) Password: user (2 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: klog (8 of 8, 7 complete) Password: admin (3 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: klog (8 of 8, 7 complete) Password: 123456 (4 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: klog (8 of 8, 7 complete) Password: password (5 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: klog (8 of 8, 7 complete) Password: qwerty (6 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: klog (8 of 8, 7 complete) Password: letmein (7 of 8 complete)
+2026-11-25 17:16:46 ACCOUNT CHECK: [smbnt] Host: 192.168.56.102 (1 of 1, 0 complete) User: klog (8 of 8, 8 complete) Password: toor (8 of 8 complete)
+GENERAL: Medusa has finished.

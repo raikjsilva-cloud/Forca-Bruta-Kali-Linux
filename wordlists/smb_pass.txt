@@ -1,0 +1,8 @@
+msfadmin
+user
+admin
+123456
+password
+qwerty
+letmein
+toor
